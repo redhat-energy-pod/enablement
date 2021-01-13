@@ -1,8 +1,9 @@
 # Enablement
-## Useful resources around Kubernetes and OpenShift
+### Useful resources around Kubernetes and OpenShift
 
 # Podcasts
 - https://kubernetespodcast.com/
+- https://podcasts.apple.com/us/podcast/podctl-enterprise-kubernetes/id1270983443
 
 # Hands on
 - https://learn.openshift.com/
