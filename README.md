@@ -7,6 +7,7 @@
 
 # Hands on
 - https://learn.openshift.com/
+  - This doesn't require any Red Hat account to get started. You can go through the basics of containers, to service mesh, to a playground to mess around with.
 - https://www.katacoda.com/kubevirt
 
 # Videos & Streams
