@@ -19,7 +19,9 @@
 - https://www.youtube.com/c/OpenShift/videos
   - OpenShift enablement videos
 
-# Blogs & Articles
+# Blogs
 - https://www.openshift.com/blog
+- https://kubernetes.io/blog/
 
+# Articles
 
