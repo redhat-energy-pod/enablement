@@ -24,5 +24,8 @@
 - https://kubernetes.io/blog/
 - https://stephennimmo.com/
 
-# Articles
+# Websites
+- https://examples.openshift.pub/
+- https://ocp-upgrade.net/
+  - Supported upgrade paths for OpenShfit Versions
 
