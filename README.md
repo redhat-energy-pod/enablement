@@ -22,6 +22,7 @@
 # Blogs
 - https://www.openshift.com/blog
 - https://kubernetes.io/blog/
+- https://stephennimmo.com/
 
 # Articles
 
