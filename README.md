@@ -6,6 +6,10 @@
   - Great for news and interviews of innovators in the k8s space
 - https://podcasts.apple.com/us/podcast/podctl-enterprise-kubernetes/id1270983443
   - Red Hat Kubernetes weekly technology podcast 
+  
+# Kubernetes Overviews
+- https://www.youtube.com/watch?v=90kZRyPcRZw&t=1069s
+  - Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO
 
 # Hands on
 - https://learn.openshift.com/
@@ -27,5 +31,5 @@
 # Websites
 - https://examples.openshift.pub/
 - https://ocp-upgrade.net/
-  - Supported upgrade paths for OpenShfit Versions
+  - Supported upgrade paths for OpenShift Versions
 
