@@ -10,6 +10,8 @@
 # Kubernetes Overviews
 - https://www.youtube.com/watch?v=90kZRyPcRZw&t=1069s
   - Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO
+- https://www.youtube.com/watch?v=0Omvgd7Hg1I&t=877s
+  - Life of a Packet [I] - Michael Rubin, Google
 
 # Hands on
 - https://learn.openshift.com/
