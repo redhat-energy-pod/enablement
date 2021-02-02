@@ -18,6 +18,8 @@
   - This doesn't require any Red Hat account to get started. You can go through the basics of containers, to service mesh, to a playground to mess around with.
 - https://www.katacoda.com/kubevirt
   - VMs in k8s hands on
+- https://developers.redhat.com/developer-sandbox
+  - OpenShift Developer Sandboxes
 
 # Videos & Streams
 - https://www.twitch.tv/redhatopenshift
