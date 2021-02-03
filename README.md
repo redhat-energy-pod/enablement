@@ -36,4 +36,11 @@
 - https://examples.openshift.pub/
 - https://ocp-upgrade.net/
   - Supported upgrade paths for OpenShift Versions
+  
+# Books
+- https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
+  - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+  - This is the best book ever written on DevOps. If you can only read one, this is it. 
+- https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+  - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 
