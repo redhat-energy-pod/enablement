@@ -36,6 +36,7 @@
 - https://examples.openshift.pub/
 - https://ocp-upgrade.net/
   - Supported upgrade paths for OpenShift Versions
+- https://kubernetesbyexample.com/
   
 # Books
 - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
