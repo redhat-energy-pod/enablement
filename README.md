@@ -37,6 +37,8 @@
 - https://ocp-upgrade.net/
   - Supported upgrade paths for OpenShift Versions
 - https://kubernetesbyexample.com/
+- https://red-hat-storage.github.io/ocs-training/training/index.html
+  - OpenShift storage examples and training
   
 # Books
 - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
