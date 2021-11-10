@@ -31,6 +31,9 @@
 - https://www.openshift.com/blog
 - https://kubernetes.io/blog/
 - https://stephennimmo.com/
+- https://mobb.ninja/
+- https://rcarrata.com/
+- https://shanna-chan.blog/
 
 # Websites
 - https://examples.openshift.pub/
