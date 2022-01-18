@@ -37,7 +37,7 @@
 
 # Websites
 - https://examples.openshift.pub/
-- https://ocp-upgrade.net/
+- https://access.redhat.com/labs/ocpupgradegraph/update_channel
   - Supported upgrade paths for OpenShift Versions
 - https://kubernetesbyexample.com/
 - https://red-hat-storage.github.io/ocs-training/training/index.html
